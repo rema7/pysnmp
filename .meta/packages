@@ -1,0 +1,2 @@
+pysnmp==4.4.4
+snmpclitools==0.6.1
